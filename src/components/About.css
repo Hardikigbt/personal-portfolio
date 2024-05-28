@@ -1,0 +1,21 @@
+/* src/components/About.css */
+.about {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .about img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+  }
+  
+  .about h1 {
+    font-size: 2rem;
+  }
+  
+  .about p {
+    font-size: 1rem;
+    margin: 1rem 0;
+  }
+  
